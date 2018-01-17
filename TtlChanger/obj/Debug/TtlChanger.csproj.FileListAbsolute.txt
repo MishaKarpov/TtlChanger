@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\bin\Debug\TtlChanger.exe.config
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\bin\Debug\TtlChanger.exe
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\bin\Debug\TtlChanger.pdb
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\obj\Debug\TtlChanger.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\obj\Debug\TtlChanger.exe
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\obj\Debug\TtlChanger.pdb
+C:\Users\Администратор\source\repos\TtlChanger\TtlChanger\obj\Debug\TtlChanger.csprojResolveAssemblyReference.cache
